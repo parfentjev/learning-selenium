@@ -1,4 +1,4 @@
-package test;
+package uitest;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
